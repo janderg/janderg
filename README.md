@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janderg
 - 👀 I’m interested in snorting koks
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on my code from UNIVERSITÄT GÖTTINGEN
 - 📫 How to reach me: Dm me 👉👈
 
